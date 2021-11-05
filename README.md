@@ -15,4 +15,4 @@
   <br>
 </div>
 
-![snake gif](https://github.com/Mathewsmag/Mathewsmag/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Mathewsmag/Mathewsmag/blob/output/github-contribution-grid-snake.svg)
