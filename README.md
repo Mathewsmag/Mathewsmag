@@ -1,4 +1,6 @@
 ## Olá eu sou o Matheus Magno, desenvolvedor front-end!
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mathewsmag)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div>
   <br>
